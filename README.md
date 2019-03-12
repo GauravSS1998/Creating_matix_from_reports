@@ -1,4 +1,4 @@
-# vuln_app_categ
+# matrix from reports
 Scan play store applications for potential security vulnerabilities using AndroBugs. Trained a model to predict other vulnerabilities if one kind vulnerability is present. 
 
 ## Steps to use the script
