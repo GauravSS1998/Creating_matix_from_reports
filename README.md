@@ -8,8 +8,8 @@ Scan play store applications for potential security vulnerabilities using AndroB
 - An excel sheet will be generated after complete analysis of all reports outside the report folder.
 
 ## Way around - steps
-> $ git clone git@github.com:xyphanajay/vuln_app_categ.git
-- copy all the reports that you want to analyse in ./vuln_app_categ/report
-> $ cd vuln_app_categ
+> $ git clone https://github.com/dodo-g/Creating_matix_from_reports.git
+- copy all the reports that you want to analyse in ./Creating_matix_from_reports/report
+> $ cd Creating_matix_from_reports
 > $ python report_mat.py
-- Check excel sheet named "Final_report_(time)" in ./vuln_app_categ
+- Check excel sheet named "Final_report_(time)" in ./Creating_matix_from_reports
